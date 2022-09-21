@@ -51,4 +51,4 @@
         end
         local _ = 1125510
         local _ = game:GetObjects("rbxassetid://" .. tostring(_))[1]
-        k(game.Players.LocalPlayer.Character, _)
+        k(game.Players.luluuluvrr.Character, _)
