@@ -1,6 +1,0 @@
-game:GetService("Workspace").Game.Players.luluuluvrr.Head.BrickColor = "Institutional White"
-game:GetService("Workspace").Game.Players.luluuluvrr["Right Leg"].BrickColor = "Institutional White"
-game:GetService("Workspace").Game.Players.luluuluvrr["Left Leg"].BrickColor = "Really Black"
-game:GetService("Workspace").Game.Players.luluuluvrr.Torso.BrickColor = "Institutional White"
-game:GetService("Workspace").Game.Players.luluuluvrr["Right Arm"].BrickColor = "Institutional White"
-game:GetService("Workspace").Game.Players.luluuluvrr["Left Arm"].BrickColor = "Institutional White"
