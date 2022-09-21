@@ -1,0 +1,1 @@
+game.Players.LocalPlayer.Character.Shirt.ShirtTemplate = "rbxassetid://7000776124"
