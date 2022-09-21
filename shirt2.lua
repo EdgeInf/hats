@@ -1,1 +1,1 @@
-game.Players.LocalPlayer.Character.Shirt.ShirtTemplate = "rbxassetid://5466887859"
+game:GetService("Workspace").Game.Players.luluuluvrr.Shirt.ShirtTemplate = "rbxassetid://5466887859"
