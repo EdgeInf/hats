@@ -1,1 +1,1 @@
-game.Players.LocalPlayer.Character.Shirt.ShirtTemplate = "rbxassetid://7000776124"
+game.Players.LocalPlayer.Character.Shirt.ShirtTemplate = "rbxassetid://5466887859"
